@@ -1,0 +1,16 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Course of async in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "js",
+    "Async"
+  ],
+  "author": "Jose Luis Olivar <olivarjoseluis9@gmail.com>",
+  "license": "MIT"
+}
