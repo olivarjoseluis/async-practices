@@ -13,7 +13,9 @@
   ],
   "author": "Jose Luis Olivar <olivarjoseluis9@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   }
 }
